@@ -206,7 +206,7 @@ function proximaPergunta() {
   indiceAtual++;
   if (indiceAtual >= perguntas.length) {
     document.getElementById("quiz").innerHTML =
-      "<h2>🎉 Fim do Quiz! Parabéns!</h2>";
+      "<h2>🎉 Fim das perguntas Parabéns!</h2>";
   } else {
     mostrarPergunta();
   }
