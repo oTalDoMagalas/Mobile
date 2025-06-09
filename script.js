@@ -169,6 +169,126 @@ const perguntas = [
     respostas: ["Estados Unidos", "China", "Índia", "Indonésia"],
     correta: 1,
   },
+  {
+    pergunta: "Qual é a fórmula da velocidade média?",
+    respostas: ["v = d/t", "v = t/d", "v = m/a", "v = p/m"],
+    correta: 0,
+  },
+  {
+    pergunta: "Quem escreveu 'A Divina Comédia'?",
+    respostas: ["Shakespeare", "Dante Alighieri", "Camões", "Victor Hugo"],
+    correta: 1,
+  },
+  {
+    pergunta: "Qual é a moeda oficial do Japão?",
+    respostas: ["Yuan", "Won", "Iene", "Dólar"],
+    correta: 2,
+  },
+  {
+    pergunta: "Quantos continentes existem?",
+    respostas: ["5", "6", "7", "8"],
+    correta: 2,
+  },
+  {
+    pergunta: "Qual desses é um tipo de energia renovável?",
+    respostas: ["Carvão", "Petróleo", "Solar", "Gás natural"],
+    correta: 2,
+  },
+  {
+    pergunta: "Em que país nasceu o escritor Jorge Amado?",
+    respostas: ["Portugal", "Angola", "Brasil", "Moçambique"],
+    correta: 2,
+  },
+  {
+    pergunta: "Qual é a montanha mais alta do mundo?",
+    respostas: ["K2", "Everest", "Aconcágua", "Mont Blanc"],
+    correta: 1,
+  },
+  {
+    pergunta: "Qual instrumento mede a temperatura?",
+    respostas: ["Régua", "Termômetro", "Barômetro", "Altímetro"],
+    correta: 1,
+  },
+  {
+    pergunta: "O que significa a sigla ONU?",
+    respostas: [
+      "Organização Nacional Unida",
+      "Ordem das Nações Unidas",
+      "Organização das Nações Unidas",
+      "Ordem Nacional Universal",
+    ],
+    correta: 2,
+  },
+  {
+    pergunta: "Quem é o autor de 'Romeu e Julieta'?",
+    respostas: ["William Shakespeare", "Homero", "Kafka", "Dickens"],
+    correta: 0,
+  },
+  {
+    pergunta: "Qual o número PI (π) aproximado?",
+    respostas: ["3,10", "3,14", "3,01", "3,41"],
+    correta: 1,
+  },
+  {
+    pergunta: "Qual é o estado brasileiro conhecido como 'Terra da Garoa'?",
+    respostas: ["Paraná", "Rio de Janeiro", "São Paulo", "Minas Gerais"],
+    correta: 2,
+  },
+  {
+    pergunta: "Qual o maior planeta do Sistema Solar?",
+    respostas: ["Terra", "Saturno", "Júpiter", "Netuno"],
+    correta: 2,
+  },
+  {
+    pergunta: "Em que esporte se usa o termo 'strike'?",
+    respostas: ["Futebol", "Basebol", "Tênis", "Golfe"],
+    correta: 1,
+  },
+  {
+    pergunta: "Qual a função da clorofila nas plantas?",
+    respostas: [
+      "Reprodução",
+      "Absorver água",
+      "Fazer fotossíntese",
+      "Dar rigidez ao caule",
+    ],
+    correta: 2,
+  },
+  {
+    pergunta: "Quem foi o primeiro presidente do Brasil?",
+    respostas: [
+      "Getúlio Vargas",
+      "Marechal Deodoro da Fonseca",
+      "Juscelino Kubitschek",
+      "Floriano Peixoto",
+    ],
+    correta: 1,
+  },
+  {
+    pergunta: "O que é um haicai?",
+    respostas: [
+      "Uma dança japonesa",
+      "Um tipo de pintura",
+      "Um tipo de poema curto",
+      "Uma lenda oriental",
+    ],
+    correta: 2,
+  },
+  {
+    pergunta: "Quantas sílabas tem a palavra 'computador'?",
+    respostas: ["3", "4", "5", "6"],
+    correta: 1,
+  },
+  {
+    pergunta: "Qual país é famoso pela Torre Eiffel?",
+    respostas: ["Itália", "Espanha", "França", "Alemanha"],
+    correta: 2,
+  },
+  {
+    pergunta: "O que mede o barômetro?",
+    respostas: ["Temperatura", "Velocidade", "Pressão atmosférica", "Altura"],
+    correta: 2,
+  },
 ];
 
 let indiceAtual = 0;
